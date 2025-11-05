@@ -44,7 +44,7 @@ Ziel: Eine stabile, skalierbare und benutzerfreundliche Plattform – sowohl **i
 |--------------|-------|
 | **PaperMC**  | Performanter Minecraft-Server |
 | **Velocity** | Proxy-System für Multi-Server-Setups |
-| **MariaDB**  | SQL-Datenbank für persistente Daten |
+| **MongoDB**  | Datenbank |
 | **Redis**    | Caching & schnelle Ingame-Abfragen |
 | **PotatoCloud** | Dynamisches Server-Management |
 
