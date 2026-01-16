@@ -27,7 +27,6 @@ Ziel: Eine stabile, skalierbare und benutzerfreundliche Plattform – sowohl **i
 ## 👨‍💻 Authoren
 - [@TruaYT](https://github.com/TruaYT)
 - [@einCode](https://github.com/EinCodeReal)
-- [@ParkusYT](https://github.com/ParkusYT)
   
 ---
 
